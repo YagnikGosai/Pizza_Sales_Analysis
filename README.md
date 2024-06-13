@@ -1,6 +1,4 @@
-# Pizza_Sales_Analysis
-
-# Pizza-Sales-Analysis---SQL
+# Pizza Sales Analysis - SQL
 
 **Objective** : To Answer Questions Related To Pizza Sales<br>
 <br>
